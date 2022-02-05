@@ -1,0 +1,23 @@
+h1 {
+  color:red;
+  font-family:helvetica;
+  background-color: black;
+  border: 7px solid orange;
+  padding: 15px;
+}
+
+body {
+    background-color: grey;
+    padding: 15px;
+}
+
+p {
+  color:orange;
+  background-color: black;
+  padding: 15px;
+}
+
+img{
+    border: 7px solid orange;
+    margin-left: 200px;
+}

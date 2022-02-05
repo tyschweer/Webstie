@@ -1,0 +1,25 @@
+<! DOCTYPE html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="Website.ccs">
+
+</head>
+
+
+
+<body>
+
+  <h1> Ty's Website</h1>
+
+<p>Welcome to my webpage!</p> <a href="https://twitter.com/tyschweer">Twitter</a>
+
+<p>This is my first html webiste. It's not much, but it's a start! <strong>Thanks for stopping by!</strong></p>
+
+<img src="ty2.jpg" width="400" height="500" />
+
+</body>
+
+</html>
